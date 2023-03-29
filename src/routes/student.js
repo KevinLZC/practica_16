@@ -21,4 +21,4 @@ router.post('/addStudent', (req, res) => { //ruta de renderizado de datos
             );
 });*/
 
-module.exports = router;
+module.exports = router; // se exporta el router de express

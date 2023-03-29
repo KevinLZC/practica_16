@@ -6,4 +6,4 @@ router.get('/person', (req, res) => { //se crea la ruta de prueba
     res.send('has solicitado el listado de personas');
 });
 
-module.exports = router;
+module.exports = router; // se exporta el router de express
